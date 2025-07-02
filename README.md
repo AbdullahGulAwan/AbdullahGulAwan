@@ -36,7 +36,6 @@ Started as a Unity game developer, building 3D mobile & PC games (Scary Stranger
 
 ## 📬 Get in Touch
 - 📧 [abdullah_gul@live.com](mailto:abdullah_gul@live.com)
-- 🌐 [Portfolio Website](https://abdullahgul12.github.io/CV)
 
 ---
 
