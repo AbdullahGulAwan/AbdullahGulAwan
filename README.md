@@ -8,14 +8,14 @@
 - ⚛️ **React.js, React Native, Redux, Context API**
 - 🟢 **Node.js, Express.js, MongoDB**
 - 🌐 **HTML5, CSS3, Bootstrap**
-- 🎮 **Unity 3D, C#**
+- 🎮 **Unity 3D, C#, Lua**
 
 ---
 
 ## 🛠 Featured Projects
 - 🚀 [RestAPI](https://github.com/AbdullahGulAwan/RestAPI) — Node/Express backend API.
 - 🌟 [MernStack](https://github.com/AbdullahGulAwan/MernStack) — Full stack MERN app.
-- 🏫 [NPS-school](https://github.com/AbdullahGulAwan/NPS-school) — School management system in HTML, CSS, Bootstrap.
+- 🏫 [NPS-school](https://github.com/AbdullahGulAwan/NPS-school) — School management system in React.
 - 🚗 [CarSalesHub](https://github.com/AbdullahGulAwan/CarSalesHub) — Car listing platform.
 
 ---
@@ -27,15 +27,18 @@
 
 ---
 
-## 🕹️ Background
-Started as a Unity game developer, building 3D mobile & PC games (Scary Stranger, Nick and Tani, various car simulators). Transitioned into front-end and mobile app development with React.js & React Native, and continuously growing in the MERN stack.
+## 🕹️ Game Development Portfolio
+Before transitioning into front-end and mobile app development, I worked extensively as a **game developer**, building 3D mobile & PC games such as **Scary Stranger, Nick and Tani**, and various car simulators.
 
-💼 **Currently open to remote React / React Native opportunities.**
+🎮 Check out my dedicated game dev portfolio here:  
+👉 [Game Portfolio Website](https://abdullahgul12.github.io/CV)
 
 ---
 
 ## 📬 Get in Touch
 - 📧 [abdullah_gul@live.com](mailto:abdullah_gul@live.com)
+- 🌐 [Portfolio Website](https://abdullahgul12.github.io/CV)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-gul-424a6414b/)
 
 ---
 
@@ -45,4 +48,4 @@ Started as a Unity game developer, building 3D mobile & PC games (Scary Stranger
 
 ---
 
-⭐ **Always learning, building, and pushing new ideas forward.**
+⭐ **Always learning, building, and pushing new ideas forward. Currently open to remote React / React Native opportunities.**
