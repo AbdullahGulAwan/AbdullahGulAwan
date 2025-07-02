@@ -15,7 +15,7 @@
 ## 🛠 Featured Projects
 - 🚀 [RestAPI](https://github.com/AbdullahGulAwan/RestAPI) — Node/Express backend API.
 - 🌟 [MernStack](https://github.com/AbdullahGulAwan/MernStack) — Full stack MERN app.
-- 🏫 [NPS-school](https://github.com/AbdullahGulAwan/NPS-school) — School management system in React.
+- 🏫 [NPS-school](https://github.com/AbdullahGulAwan/NPS-school) — School management system in HTML, CSS, Bootstrap.
 - 🚗 [CarSalesHub](https://github.com/AbdullahGulAwan/CarSalesHub) — Car listing platform.
 
 ---
